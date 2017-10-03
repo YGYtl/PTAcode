@@ -35,8 +35,7 @@ int main()
 			break;
 		}
 		else{
-			printf("price = 0.00");
-			break;
+			printf("price = 0.00\n");
 		}
 		b ++;
 	 }
