@@ -15,5 +15,5 @@
 - hs
 - hs2
 - hs3
-- hs4g
+- hs4
 - hs5
