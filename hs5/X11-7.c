@@ -54,7 +54,7 @@ struct ListNode *getodd( struct ListNode **L )//1, 3, 5
 		{
 			a[i] = d->data;
 			i++;
-			p->next = d->next;//连上 
+			p->next = d->next;
 			free(d);
 			d = p->next;
 			continue;
